@@ -1,9 +1,11 @@
 s.ssl.qhres.com
+s0.ssl.qhres.com
 s1.ssl.qhres.com
 s2.ssl.qhres.com
 s3.ssl.qhres.com
 s4.ssl.qhres.com
 s5.ssl.qhres.com
+s0.qhres.com
 s1.qhres.com
 s2.qhres.com
 s3.qhres.com
