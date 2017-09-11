@@ -7,3 +7,4 @@ i1.hdslb.com
 i2.hdslb.com
 i3.hdslb.com
 i4.hdslb.com
+static.hdslb.com
